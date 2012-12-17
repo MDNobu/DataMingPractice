@@ -1,5 +1,11 @@
+
 .classpath
 .project
 .metadata/
 chapter3/
 bin/
+*.class
+*.jar
+*.war
+*.ear
+

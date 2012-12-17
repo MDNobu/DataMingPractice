@@ -32,6 +32,7 @@ public class Log4jTest {
         logger.warn("Here is some WARN");
         logger.error("Here is some ERROR");
         logger.fatal("Here is some FATAL");   
+		logger.debug("This is an add line");
 	}
 
 }
